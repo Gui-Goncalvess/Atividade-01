@@ -1,0 +1,36 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img{
+    width: 200px;
+}
+
+p{
+    color: black;
+    font-size: larger;
+    font-family: Tahoma;
+}
+
+h1 {
+    font-size: 40pt;
+    text-decoration: underline;
+    color: red;
+}
+
+h2 {
+    font-size: 20pt;
+}
+
+h3 {
+    font-size: 20pt;
+}
+
+h4 {
+    font-size: 20pt;
+}
+
+h5 {
+    font-size: 20pt;
+}
